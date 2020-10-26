@@ -14,7 +14,6 @@
 </head>
 <body>
 
-브랜치 테스트중입니다.
 
 <div align="center">
 	<table>
